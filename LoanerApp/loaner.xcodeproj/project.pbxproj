@@ -10,6 +10,7 @@
 		2903D4F924C5FD6E00F8C1AB /* LoanedItems.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2903D4F724C5FD6E00F8C1AB /* LoanedItems.xcdatamodeld */; };
 		2903D4FC24C5FF4100F8C1AB /* Item+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2903D4FA24C5FF4100F8C1AB /* Item+CoreDataClass.swift */; };
 		2903D4FD24C5FF4100F8C1AB /* Item+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2903D4FB24C5FF4100F8C1AB /* Item+CoreDataProperties.swift */; };
+		29C2922924C601C6003CC80D /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C2922824C601C6003CC80D /* ItemStore.swift */; };
 		448856882239D544001EDDC4 /* Loanee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448856872239D544001EDDC4 /* Loanee.swift */; };
 		E929E9692124EB7E0018488C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E929E9682124EB7E0018488C /* AppDelegate.swift */; };
 		E929E96B2124EB7E0018488C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E929E96A2124EB7E0018488C /* ViewController.swift */; };
@@ -28,6 +29,7 @@
 		2903D4F824C5FD6E00F8C1AB /* LoanedItems.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LoanedItems.xcdatamodel; sourceTree = "<group>"; };
 		2903D4FA24C5FF4100F8C1AB /* Item+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataClass.swift"; sourceTree = "<group>"; };
 		2903D4FB24C5FF4100F8C1AB /* Item+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		29C2922824C601C6003CC80D /* ItemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
 		448856872239D544001EDDC4 /* Loanee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loanee.swift; sourceTree = "<group>"; };
 		E929E9652124EB7E0018488C /* loaner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = loaner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E929E9682124EB7E0018488C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			children = (
 				2903D4FA24C5FF4100F8C1AB /* Item+CoreDataClass.swift */,
 				2903D4FB24C5FF4100F8C1AB /* Item+CoreDataProperties.swift */,
+				29C2922824C601C6003CC80D /* ItemStore.swift */,
 				2903D4F724C5FD6E00F8C1AB /* LoanedItems.xcdatamodeld */,
 				448856872239D544001EDDC4 /* Loanee.swift */,
 			);
@@ -199,6 +202,7 @@
 				2903D4FD24C5FF4100F8C1AB /* Item+CoreDataProperties.swift in Sources */,
 				E9D24DEF212789B90045C5D8 /* UIImage+ImagePickerController.swift in Sources */,
 				2903D4F924C5FD6E00F8C1AB /* LoanedItems.xcdatamodeld in Sources */,
+				29C2922924C601C6003CC80D /* ItemStore.swift in Sources */,
 				E929E9692124EB7E0018488C /* AppDelegate.swift in Sources */,
 				E969554E21277C3100457E12 /* ItemEditorViewController.swift in Sources */,
 				448856882239D544001EDDC4 /* Loanee.swift in Sources */,
